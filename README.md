@@ -24,6 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Mejniak/Frontend-Mentor-huddle-landing-page-with)
+- Live Site URL: [Netlify](https://huddlelanding-lukas.netlify.app/)
 
 ### Built with
 
