@@ -154,7 +154,7 @@ footer {
   flex-direction: column;
   width: 50%;
   margin: 40px;
-  gap: 10px;
+  gap: 15px;
 }
 .newsletter-div {
   display: flex;
