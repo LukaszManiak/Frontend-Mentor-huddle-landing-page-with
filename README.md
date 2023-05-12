@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Mejniak/Frontend-Mentor--Single-price-grid-component)
-- Live Site URL: [Netlify](https://singlepricegrid-lukas.netlify.app/)
+- Solution URL: [GitHub](https://github.com/Mejniak/Frontend-Mentor-huddle-landing-page-with)
 
 ### Built with
 
