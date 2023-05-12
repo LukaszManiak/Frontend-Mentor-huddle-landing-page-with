@@ -8,5 +8,8 @@
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Lukas Maniak",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
 }
